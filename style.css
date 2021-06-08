@@ -1,0 +1,42 @@
+.title{
+  text-align: center;
+}
+
+body{
+  font-family: 'Roboto', sans-serif;
+}
+.odometer {
+    font-size: 60px;
+}
+.white{
+	background: white;
+}
+.header{
+	box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+}
+.stats{
+	min-height: 355px;
+	padding-top: 20px;
+}
+.caja-principal{
+	padding-top: 20px;
+		box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+}
+.video{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.footer{
+	padding-top: 20px;
+	box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+}
+.supplied{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.final{
+	padding-top: 20px;
+}
+.top{
+	padding-top: 20px;
+}
